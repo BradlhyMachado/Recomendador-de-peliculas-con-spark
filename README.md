@@ -37,4 +37,4 @@ Luego puedes ejecutar el código con el siguiente comando:
 
 La siguiente imágen pertenece a la ejecución del programa:
 
-![image](https://github.com/BradlhyMachado/Recomendador-de-peliculas-con-spark/assets/89551198/4df5ef8e-d8c6-4874-8baf-9a2eab81964d)
+![image](https://github.com/BradlhyMachado/Recomendador-de-peliculas-con-spark/assets/89551198/ec7bb7eb-a520-4018-92c1-0f92a26419d4)
